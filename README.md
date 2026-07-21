@@ -5,7 +5,7 @@ procedurally-generated soundscape paired with a matching animated backdrop, and
 stay on track with a built-in Pomodoro timer. Everything runs entirely in the
 browser — no backend, no accounts, no audio files to download.
 
-## Features
+## Features   
 
 - **Four ambient vibes** — Rainy Café, Night Train, Library, and Forest. Each
   pairs its own soundscape with a distinct animated background and accent color.
