@@ -82,4 +82,4 @@ lib/
 
 Audio requires a user gesture to begin, which is why the soundscape starts only
 after you select a vibe. If you have reduced-motion enabled at the OS level, the
-background animations are minimized automatically.
+background animations are minimized automatically .
