@@ -157,6 +157,7 @@
   * {
     @apply border-border outline-ring/50;
   }
+
   body {
     @apply bg-background text-foreground;
   }
@@ -169,12 +170,15 @@
     transform: translateY(-20vh) translateX(0);
     opacity: 0;
   }
+
   10% {
     opacity: 0.5;
   }
+
   90% {
     opacity: 0.5;
   }
+
   100% {
     transform: translateY(120vh) translateX(-6vw);
     opacity: 0;
@@ -186,12 +190,15 @@
     transform: translateX(110vw);
     opacity: 0;
   }
+
   8% {
     opacity: 0.9;
   }
+
   92% {
     opacity: 0.9;
   }
+
   100% {
     transform: translateX(-30vw);
     opacity: 0;
@@ -199,10 +206,12 @@
 }
 
 @keyframes sr-sway {
+
   0%,
   100% {
     transform: rotate(var(--sway-from));
   }
+
   50% {
     transform: rotate(var(--sway-to));
   }
@@ -213,12 +222,15 @@
     transform: translate(0, 0);
     opacity: 0;
   }
+
   20% {
     opacity: 0.35;
   }
+
   80% {
     opacity: 0.35;
   }
+
   100% {
     transform: translate(4vw, -8vh);
     opacity: 0;
@@ -229,6 +241,7 @@
   from {
     opacity: 0;
   }
+
   to {
     opacity: 1;
   }

@@ -23,7 +23,7 @@ browser — no backend, no accounts, no audio files to download.
 - **Responsive & accessible** — adapts from desktop to mobile, honors
   `prefers-reduced-motion`, and uses semantic, keyboard-friendly controls.
 
-## Tech Stack
+## Tech Stack 
 
 - **Next.js** (App Router) + **React**
 - **TypeScript**
