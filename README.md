@@ -33,7 +33,7 @@ browser — no backend, no accounts, no audio files to download.
 
 ## Getting Started
 
-Install dependencies and start the dev server:
+Install dependencies and start the dev server: 
 
 ```bash
 pnpm install
